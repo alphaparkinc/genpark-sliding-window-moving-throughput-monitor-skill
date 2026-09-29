@@ -1,0 +1,20 @@
+{
+  "name": "genpark-sliding-window-moving-throughput-monitor-skill",
+  "version": "1.0.0",
+  "description": "Sliding window time-series monitor measuring real-time token throughput (TPS), TTFT, and inter-token latency percentiles",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "throughput-monitor",
+    "tps-monitor",
+    "ttft-metric",
+    "latency-tracker",
+    "telemetry",
+    "python-standard-library",
+    "agent-skills",
+    "performance",
+    "benchmarks",
+    "developer-tools"
+  ]
+}
