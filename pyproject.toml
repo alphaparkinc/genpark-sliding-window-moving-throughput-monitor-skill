@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-sliding-window-moving-throughput-monitor-skill"
+version = "1.0.0"
+description = "Sliding window time-series monitor measuring real-time token throughput (TPS), TTFT, and inter-token latency percentiles"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
